@@ -1,0 +1,144 @@
+{
+  "scale": "human",
+  "events": [
+    {
+      "text": {
+        "headline": "Sputnik 1 Launched",
+        "text": "The Soviet Union successfully launches the first artificial satellite marking the beginning of the Space Age."
+      },
+      "start_date": {
+        "year": 1957,
+        "month": 10,
+        "day": 4
+      },
+      "group": "Soviet Achievements",
+      "unique_id": "sputnik-launch",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/400px-Sputnik_asm.jpg",
+        "caption": "Sputnik 1 satellite",
+        "credit": "Wikipedia",
+        "alt": "First artificial satellite",
+        "link": "https://en.wikipedia.org/wiki/Sputnik_1",
+        "link_target": "_blank"
+      },
+      "background": {
+        "color": "#8B0000"
+      }
+    },
+    {
+      "text": {
+        "headline": "First Human in Space",
+        "text": "Yuri Gagarin becomes the first human to journey into outer space aboard Vostok 1."
+      },
+      "start_date": {
+        "year": 1961,
+        "month": 4,
+        "day": 12
+      },
+      "group": "Soviet Achievements",
+      "unique_id": "gagarin-flight",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Yuri_Gagarin_%281961%29_-_Restoration.jpg/400px-Yuri_Gagarin_%281961%29_-_Restoration.jpg",
+        "caption": "Yuri Gagarin portrait",
+        "credit": "Wikipedia",
+        "alt": "First human in space",
+        "link": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+        "link_target": "_blank"
+      },
+      "background": {
+        "color": "#8B0000"
+      }
+    },
+    {
+      "text": {
+        "headline": "Apollo 11 Moon Landing",
+        "text": "Neil Armstrong and Buzz Aldrin become the first humans to land on the Moon."
+      },
+      "start_date": {
+        "year": 1969,
+        "month": 7,
+        "day": 20
+      },
+      "group": "US Achievements",
+      "unique_id": "apollo-11",
+      "media": {
+        "url": "https://www.youtube.com/watch?v=cwZb2mqId0A",
+        "caption": "Apollo 11 Moon Landing Video",
+        "credit": "NASA",
+        "alt": "Moon landing footage",
+        "link": "https://www.nasa.gov/apollo",
+        "link_target": "_blank"
+      },
+      "background": {
+        "color": "#000080"
+      }
+    },
+    {
+      "text": {
+        "headline": "Apollo-Soyuz Test Project",
+        "text": "Joint US-Soviet space mission marking the end of the Space Race."
+      },
+      "start_date": {
+        "year": 1975,
+        "month": 7,
+        "day": 17
+      },
+      "end_date": {
+        "year": 1975,
+        "month": 7,
+        "day": 24
+      },
+      "group": "Both Nations",
+      "unique_id": "apollo-soyuz",
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Apollo-Soyuz_Test_Project_logo.png/400px-Apollo-Soyuz_Test_Project_logo.png",
+        "caption": "Apollo-Soyuz mission patch",
+        "credit": "NASA",
+        "alt": "Cooperation mission logo",
+        "link": "https://www.nasa.gov/apollo-soyuz",
+        "link_target": "_blank"
+      },
+      "background": {
+        "color": "#4B0082"
+      }
+    }
+  ],
+  "eras": [
+    {
+      "text": {
+        "headline": "Cold War Space Competition",
+        "text": "Period of intense space exploration rivalry between the US and Soviet Union."
+      },
+      "start_date": {
+        "year": 1957,
+        "month": 10,
+        "day": 4
+      },
+      "end_date": {
+        "year": 1975,
+        "month": 7,
+        "day": 17
+      },
+      "unique_id": "cold-war-era"
+    }
+  ],
+  "title": {
+    "text": {
+      "headline": "The Space Race",
+      "text": "Key milestones in the competition between the United States and Soviet Union to achieve superior spaceflight capability."
+    },
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Apollo_11_Saturn_V_lifting_off_on_July_16%2C_1969.jpg/800px-Apollo_11_Saturn_V_lifting_off_on_July_16%2C_1969.jpg",
+      "caption": "Apollo 11 Saturn V rocket launches",
+      "credit": "NASA",
+      "alt": "Apollo 11 launch",
+      "link": "https://nasa.gov",
+      "link_target": "_blank"
+    },
+    "background": {
+      "color": "#000080",
+      "url": "https://wikipedia.com/space-bg.jpg"
+    },
+    "unique_id": "title-slide"
+  }
+}
