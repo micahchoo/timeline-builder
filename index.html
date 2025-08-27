@@ -9,7 +9,7 @@
     <script type="text/javascript" language="javascript" src="courses.json"></script>
     
     <script type="text/javascript">
-        $.getJSON("whitney.json", function (data) {
+        $.getJSON("courses.json", function (data) {
                 var timeline_json = data;
             window.timeline = new TL.Timeline('timeline-embed', timeline_json);
             });
