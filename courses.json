@@ -1,0 +1,26 @@
+{
+  "scale": "human",
+  "events": [
+    {
+      "text": {
+        "headline": "Course 1",
+        "text": "asdasdfsadfasd"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 8,
+        "day": 13
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 26
+      },
+      "group": "Trimester 1",
+      "background": {
+        "color": "#000000"
+      }
+    }
+  ],
+  "eras": []
+}
