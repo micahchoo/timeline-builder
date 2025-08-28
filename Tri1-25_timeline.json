@@ -1,0 +1,220 @@
+{
+  "scale": "human",
+  "events": [
+    {
+      "text": {
+        "headline": "Maternal archives of songs",
+        "text": "This primer course will involve working with women to document birth practices, lullabies, remedies, taboos, and learn how to produce narratives and is offered by Eshwari & Supriya"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 6
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 2
+      },
+      "group": "Trimester 1",
+      "unique_id": "living-labs-institute-course-calendar",
+      "background": {
+        "color": "#d9ead3"
+      }
+    },
+    {
+      "text": {
+        "headline": "Artefact as Method",
+        "text": "This primer course will be about learning by making artefacts as a research method and is offered by Abhiram & Shreyas"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 6
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 2
+      },
+      "group": "Trimester 1",
+      "unique_id": "maternal-archives-of-songs",
+      "background": {
+        "color": "#d9ead3"
+      }
+    },
+    {
+      "text": {
+        "headline": "Map as a tool to understand socioecological phenomena in the place",
+        "text": "This workshop by Adhavan & Harsha will attempt to introduce tools, methods and software to use maps as tools to document and understand  socio-ecological phenomena associated with a place or an ecosystemwill attempt to introduce tools, methods and software to use maps as tools to document and understand  socio-ecological phenomena associated with a place or an ecosystem"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 27
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 9
+      },
+      "group": "Trimester 1",
+      "unique_id": "artefact-as-method",
+      "background": {
+        "color": "#c9daf8"
+      }
+    },
+    {
+      "text": {
+        "headline": "Interaction between craft communities",
+        "text": "This workshop by Eshwari & Supriya will work through the interdependence between communities and their practices and how they co-exist. This will rely on the knowledge that some of these crafts and communities are disappearing and what future can be imagined."
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 27
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 9
+      },
+      "group": "Trimester 1",
+      "unique_id": "map-as-a-tool-to-understand-socioecological-phenomena-in-the-place",
+      "background": {
+        "color": "#c9daf8"
+      }
+    },
+    {
+      "text": {
+        "headline": "Assembling narratives in the plural world",
+        "text": "This elective course by Archit & Shreyas will explore how artefacts embedded in a place are containers of shared narratives among communities. In this unit we will assemble narratives through cultural artefacts to initiate a public dialogue."
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 20
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 16
+      },
+      "group": "Trimester 1",
+      "unique_id": "interaction-between-craft-communities",
+      "background": {
+        "color": "#d9d2e9"
+      }
+    },
+    {
+      "text": {
+        "headline": "Sacred sites: Culture and Environment",
+        "text": "This elective course by Abhishek & Shreyas will explore how artefacts embedded in a place are containers of shared narratives among communities. In this unit we will assemble narratives through cultural artefacts to initiate a public dialogue."
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 20
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 16
+      },
+      "group": "Trimester 1",
+      "unique_id": "assembling-narratives-in-the-plural-world",
+      "background": {
+        "color": "#d9d2e9"
+      }
+    },
+    {
+      "text": {
+        "headline": "Culinary practices, nutrition and wellbeing",
+        "text": "This travelling studio by Sangeetha & Vidya will explore multiple sites of food production situated in Kundapura, like the agricultural fields, fish markets and ports, cashew & areca orchards. Being from a place which produces diverse food, how are food practices in different communities and how the production and consumption has a impact on the wellbeing of the communities"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 6
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 10,
+        "day": 26
+      },
+      "group": "Trimester 1",
+      "unique_id": "sacred-sites:-culture-and-environment",
+      "background": {
+        "color": "#46bdc6"
+      }
+    },
+    {
+      "text": {
+        "headline": "What Shapes our Health? Mapping to understand place-based SDoH",
+        "text": "This makeathon by Naveen, Sangeetha, Vidya & Adhavan and is set in specific places within the Kundapura Taluk, this primer exposes to the specific and local manifestation of Social Determinants of Health and opens up for their implications for understanding community health & wellbeing"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 10
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 16
+      },
+      "group": "Trimester 1",
+      "unique_id": "culinary-practices,-nutrition-and-wellbeing",
+      "background": {
+        "color": "#f6b26b"
+      }
+    },
+    {
+      "text": {
+        "headline": "Rhythms of the place",
+        "text": "This makeathon by Archit, Eeshita & Shreyas will be about listening to a place, recording it and sampling it. This will also be an introduction to sampling as a method."
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 10
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 16
+      },
+      "group": "Trimester 1",
+      "unique_id": "what-shapes-our-health?-mapping-to-understand-place-based-sdoh",
+      "background": {
+        "color": "#f6b26b"
+      }
+    }
+  ],
+  "eras": [
+    {
+      "text": {
+        "headline": "Trimester 1",
+        "text": "These are all the courses that will run from September 1 to November 23rd"
+      },
+      "start_date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 11,
+        "day": 23
+      },
+      "unique_id": "rhythms-of-the-place"
+    }
+  ],
+  "title": {
+    "text": {
+      "headline": "Living Labs Institute Course Calendar",
+      "text": "This timeline contains our course calendar over the next year divided into trimesters"
+    },
+    "unique_id": "timeline-title"
+  }
+}
